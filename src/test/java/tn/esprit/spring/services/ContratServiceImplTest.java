@@ -61,7 +61,7 @@ private static final Logger l = LogManager.getLogger(ContratServiceImplTest.clas
 	@Order(4)
 	public void testDeleteContrat() throws ParseException
 	{
-cs.deleteContrat("10");
+//cs.deleteContrat("10");
 //Assertions.assertNull(cs.retrieveContrat("8"));
 
 	 
